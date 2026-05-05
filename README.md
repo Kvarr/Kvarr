@@ -15,8 +15,10 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 |[Avon](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc/overview)|CLOB + Lending|2nd 🥈|Solo finding|Solidity|
 |[Panoptic Hypovault](https://code4rena.com/audits/2025-06-panoptic)|Vault|2nd 🥈|Top hunter|Solidity|
 |[Octant v2](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview)|Funding vaults|3rd 🥉||Solidity|
+|[Revert Lend](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview)|Loans against Aerodrome NFTs|3rd 🥉||Solidity|
 |[Aegis.im](https://audits.sherlock.xyz/contests/799)|Stablecoin|4th 🏅||Solidity|
 |[Pike-Tapio Monorepo](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview)|Stablecoin & Lending|5th 🏅|Solo finding|Solidity|
+|[Chainlink Payment Abstraction V2](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2)|Dutch auction–based token conversion|5th 🏅|Solidity|
 |[Jigsaw](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview)|Lending|7th 🏅||Solidity|
 |[Alchemix V3](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview)|Lending|10th 🏅|| Solidity|
 
