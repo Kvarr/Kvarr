@@ -27,6 +27,7 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 |<div align="center">**Provider**</div>|<div align="center">**Project**</div>|**Description**|**Language**|**Report**|
 |:---|:---|:---:|:---:|:---:|
 |Sherlock|Spine Finance Update||Solidity||
+|Phage Security|Bounce Tech|Leveraged token, Hyperliquid|Solidity||
 |Sherlock|HeyElsa|Token launching, PancakeSwap Infinity integration|Solidity||
 |Sherlock|The Gavel Protocol|Auction-based lending protocol|Solidity||
 |Sherlock|SYMMIO v0.8.5|Peer2Peer derivatives trading|Solidity||
