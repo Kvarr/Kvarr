@@ -31,8 +31,8 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 |Sherlock|HeyElsa|Token launching, PancakeSwap Infinity integration|Solidity||
 |Sherlock|The Gavel Protocol|Auction-based lending protocol|Solidity||
 |Sherlock|SYMMIO v0.8.5|Peer2Peer derivatives trading|Solidity||
+|BailSec|ETHStrategy|Stablecoin + Lending + Staking |Solidity||
 |Sherlock|40acres XPHAR|Lending|Solidity||
-|||Stablecoin + Lending + Staking |Solidity||
 
 # ✨ Notable Achievments ✨
 
