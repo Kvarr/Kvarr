@@ -26,7 +26,7 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 
 |<div align="center">**Provider**</div>|<div align="center">**Project**</div>|**Description**|**Language**|**Report**|
 |:---|:---|:---:|:---:|:---:|
-|Alt Fun|Bounce Tech|Token launchpad, Hyperliquid|Solidity||
+|Phage Security|Alt Fun|Token launchpad, Hyperliquid|Solidity||
 |Sherlock|Spine Finance Update|Lending|Solidity||
 |Phage Security|Bounce Tech|Leveraged token, Hyperliquid|Solidity||
 |Sherlock|HeyElsa|Token launching, PancakeSwap Infinity integration|Solidity||
