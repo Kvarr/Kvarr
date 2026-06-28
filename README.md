@@ -26,6 +26,9 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 
 |<div align="center">**Provider**</div>|<div align="center">**Project**</div>|**Description**|**Language**|**Report**|
 |:---|:---|:---:|:---:|:---:|
+|Sherlock|Noon Capital|Cross-chain stablecoin + Staking|Solidity||
+|BailSec|ETHStrategy|Stablecoin + Lending + Staking |Solidity||
+|Sherlock|Elara Finance|Staking, Strategies|Solidity||
 |Phage Security|Alt Fun|Token launchpad, Hyperliquid|Solidity||
 |Sherlock|Spine Finance Update|Lending|Solidity||
 |Phage Security|Bounce Tech|Leveraged token, Hyperliquid|Solidity||
