@@ -13,6 +13,7 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 |:---|:---:|:---:|:---|:---:|
 |[Kuru](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview)|CLOB + AMM|2nd 🥈|Most findings|Solidity|
 |[Avon](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc/overview)|CLOB + Lending|2nd 🥈|Solo finding|Solidity|
+|[Reserve Governor]([https://code4rena.com/audits/2025-06-panoptic](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview))|Staking + Governance|2nd 🥈||Solidity|
 |[Panoptic Hypovault](https://code4rena.com/audits/2025-06-panoptic)|Vault|2nd 🥈|Top hunter|Solidity|
 |[Octant v2](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview)|Funding vaults|3rd 🥉||Solidity|
 |[Revert Lend](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview)|Loans against Aerodrome NFTs|3rd 🥉||Solidity|
