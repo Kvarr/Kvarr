@@ -29,12 +29,12 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 |:---|:---|:---:|:---:|:---:|
 |Sherlock|Noon Capital|Cross-chain stablecoin + Staking|Solidity||
 |Sherlock|Elara Finance|Staking, Strategies|Solidity||
-|Phage Security|Alt Fun|Token launchpad, Hyperliquid|Solidity||
-|Sherlock|Spine Finance Update|Lending|Solidity||
-|Phage Security|Bounce Tech|Leveraged token, Hyperliquid|Solidity||
+|Phage Security|Alt Fun|Token launchpad, Hyperliquid|Solidity|[🔗](https://github.com/phage-security/audits/blob/main/2026-05-altFun.pdf)|
+|Sherlock|Spine Finance Update|Lending|Solidity|[🔗](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.05.26%20-%20Final%20-%20Spine%20Finance%20Collaborative%20Audit%20Report%201779831865.pdf)|
+|Phage Security|Bounce Tech|Leveraged token, Hyperliquid|Solidity|[🔗]](https://bounce.tech/bounce-phage-audit-2.pdf)|
 |Sherlock|HeyElsa|Token launching, PancakeSwap Infinity integration|Solidity||
 |Sherlock|The Gavel Protocol|Auction-based lending protocol|Solidity||
-|Sherlock|SYMMIO v0.8.5|Peer2Peer derivatives trading|Solidity||
+|Sherlock|SYMMIO v0.8.5|Peer2Peer derivatives trading|Solidity|[🔗](https://1257875949-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FYQhBmTCs9MwhhuPQrV5v%2Fuploads%2FwA7JTPfCWwRuVukRyPea%2F2026.03.31%20-%20Final%20-%20SYMMIO%20Collaborative%20Audit%20Report%201774957689.pdf?alt=media&token=ff04dd8b-83b2-476f-b8ae-7be1c14dc9b1)|
 |BailSec|ETHStrategy|Stablecoin + Lending + Staking |Solidity||
 |Sherlock|40acres XPHAR|Lending|Solidity|[🔗](https://drive.google.com/file/d/1c68Rah-fQzLzaESx7qX_Lbk9ecZ6fHWM/view)|
 
