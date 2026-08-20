@@ -27,6 +27,11 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 
 |<div align="center">**Provider**</div>|<div align="center">**Project**</div>|**Description**|**Language**|**Report**|
 |:---|:---|:---:|:---:|:---:|
+|Sherlock|Townsquare|Vault|Solidity||
+|Sherlock|Archer Money|Non-custodial payment distribution|Solidity||
+|Sherlock|Mobius Exchange|Lending with leveraged perps trading|Solidity||
+|Sherlock|AntSeed|AI services with staking|Solidity||
+|BailSec|Symbiotic Vaults V2|Vault with strategies|Solidity||
 |Sherlock|Noon Capital|Cross-chain stablecoin + Staking|Solidity||
 |Sherlock|Elara Finance|Staking, Strategies|Solidity||
 |Phage Security|Alt Fun|Token launchpad, Hyperliquid|Solidity|[🔗](https://github.com/phage-security/audits/blob/main/2026-05-altFun.pdf)|
