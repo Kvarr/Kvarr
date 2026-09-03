@@ -11,7 +11,7 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 
 |<div align="center">**Project**</div>|**Description**|**Ranking**|**Highlights**|**Language**|
 |:---|:---:|:---:|:---|:---:|
-|[Metric](https://audits.sherlock.xyz/contests/1279)|Oracle AMM|1st 🥇|2/2 solo findings<br>>>50% of the pot, ~8× the earnings of 2nd place|Solidity|
+|[Metric](https://audits.sherlock.xyz/contests/1279)|Oracle AMM|1st 🥇|2/2 solo findings<br>>50% of the pot<br>>~8× the earnings of 2nd place|Solidity|
 |[Kuru](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview)|CLOB + AMM|2nd 🥈|Most findings|Solidity|
 |[Avon](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc/overview)|CLOB + Lending|2nd 🥈|Solo finding|Solidity|
 |[Reserve Governor](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview)|Staking + Governance|2nd 🥈||Solidity|
