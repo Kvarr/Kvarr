@@ -28,6 +28,7 @@ I am a [Web3 Security Researcher](https://audits.sherlock.xyz/watson/Kvar) focus
 
 |<div align="center">**Provider**</div>|<div align="center">**Project**</div>|**Description**|**Language**|**Report**|
 |:---|:---|:---:|:---:|:---:|
+|Sherlock|Genius Terminal|Token launchpad|Solidity||
 |Sherlock|Townsquare|Vault|Solidity||
 |Sherlock|Archer Money|Non-custodial payment distribution|Solidity||
 |Sherlock|Mobius Exchange|Lending with leveraged perps trading|Solidity||
